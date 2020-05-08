@@ -19,7 +19,7 @@
 
 <hr />
 
-Help us stop COVID-19.
+Help us stop COVID-19.__Test
 
 We’re building the next generation of secure location logging to preserve privacy and _#flattenthecurve_
 
