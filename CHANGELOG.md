@@ -1,3 +1,7 @@
+## [1.0.13](https://github.com/siddhantbenadikar/covid-safe-paths/compare/1.0.12...1.0.13) (2020-05-13)
+
+
+
 ## [1.0.12](https://github.com/siddhantbenadikar/covid-safe-paths/compare/v0.5.4...1.0.12) (2020-05-13)
 
 
